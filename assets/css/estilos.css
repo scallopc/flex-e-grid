@@ -359,7 +359,7 @@ body {
         align-self: flex-start;
     }
 
-    .cartao--recentes .cartao__titulo {
+    .cartao--recentes .cartao__titulo{
         grid-column: auto;
     }
 
